@@ -11,5 +11,6 @@
 		파일 : <input type="file" name="file"><br> 
 		<input type="submit" value="압로드">
 	</form>
+	<a href = "fileDownload.jsp">파일 다운로드 페이지</a>
 </body>
 </html>
